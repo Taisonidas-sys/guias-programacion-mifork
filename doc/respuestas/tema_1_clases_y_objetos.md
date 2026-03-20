@@ -52,7 +52,6 @@ Por favor, escribe en impersonal las respuestas.
 
 ### Respuesta
 
-
 ## 9. ¿Cuál es el punto de entrada en un programa en Java? ¿Qué es `static` y para qué vale? ¿Sólo se emplea para ese método `main`? ¿Para qué se combina con `final`?
 
 ### Respuesta

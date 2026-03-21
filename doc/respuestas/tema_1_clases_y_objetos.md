@@ -13,7 +13,7 @@ Por favor, escribe en impersonal las respuestas.
 ----
 -->
 
-# TEMA 1. Clases y objetos
+# TEMA 1. Clases y objetos  
 
 ## 1. ¿Cuáles son las cuatro características básicas de la programación orientada a objetos? Describe brevemente cada una
 
@@ -51,6 +51,7 @@ Por favor, escribe en impersonal las respuestas.
 ## 8. Ejemplo mínimo de clase en Java, que se llame Punto, con dos atributos, x e y, con un método que se llame `calculaDistanciaAOrigen`, que calcule la distancia a la posición 0,0. Por sencillez, los atributos deben tener visibilidad por defecto. Crea además un ejemplo de uso con una instancia y uso del método
 
 ### Respuesta
+
 
 ## 9. ¿Cuál es el punto de entrada en un programa en Java? ¿Qué es `static` y para qué vale? ¿Sólo se emplea para ese método `main`? ¿Para qué se combina con `final`?
 

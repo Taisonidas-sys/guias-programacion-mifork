@@ -13,6 +13,7 @@ Por favor, escribe en impersonal las respuestas.
 ----
 -->
 # TEMA 3. Excepciones
+# TEMA 3. Excepciones 
 
 ## 1. Empecemos un tema sobre control de errores en lenguajes de programación, con algo básico. En C, donde no existen las excepciones, pongamos un ejemplo de una raíz que toma número flotante positivo. Queremos controlar el error si la función recibe un número negativo. El usuario debe ser informado pero desde fuera de la función `raiz` ¿Cómo indicamos ese error?. Enumera dos opciones diferentes de diseñar, poniendo un ejemplo de código de cada una.
 

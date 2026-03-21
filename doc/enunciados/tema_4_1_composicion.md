@@ -13,6 +13,7 @@ Por favor, escribe en impersonal las respuestas.
 ----
 -->
 # Tema 4.1. Composición
+# Tema 4.1. Composición 
 
 
 ## 1. En C, podemos crear estructuras mayores **componiendo** unas con otras, que suelen describirse como "A tiene-un/tiene-varios B". Pon un ejemplo, empleando `struct`, de una línea de puntos, donde puntos tienen dos coordenadas (`x` e `y`), y la línea esta hecha de dos puntos. Incluye una función para calcular la distancia entre puntos y otra para hallar la longitud de una línea.

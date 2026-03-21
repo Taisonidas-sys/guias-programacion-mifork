@@ -13,6 +13,7 @@ Por favor, escribe en impersonal las respuestas.
 ----
 -->
 # TEMA 2. Encapsulación
+# TEMA 2. Encapsulación 
 
 ## 1. En Programación Orientada a Objetos (POO), ¿Qué buscan la **encapsulación** y **la ocultación** de información? Enumera brevemente algunas ventajas de la ocultación de información.
 

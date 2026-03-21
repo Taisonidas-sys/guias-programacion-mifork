@@ -13,7 +13,6 @@ Por favor, escribe en impersonal las respuestas.
 ----
 -->
 
-# TEMA 1. Clases y objetos
 # TEMA 1. Clases y objetos 
 
 ## 1. ¿Cuáles son las cuatro características básicas de la programación orientada a objetos? Describe brevemente cada una

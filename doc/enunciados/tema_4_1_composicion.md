@@ -12,7 +12,6 @@ Por favor, escribe en impersonal las respuestas.
 </prompt>
 ----
 -->
-# Tema 4.1. Composición
 # Tema 4.1. Composición 
 
 
